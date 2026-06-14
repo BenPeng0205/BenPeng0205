@@ -1,4 +1,87 @@
 <p align="center">
+  <a href="#english"><strong>English</strong></a>
+  ·
+  <a href="#中文">中文</a>
+</p>
+
+<a id="english"></a>
+
+<p align="center">
+  <img src="./assets/controlrookie-profile-hero-en.png" alt="ControlRookie: an AI automation architect who keeps up with the times" width="100%">
+</p>
+
+# ControlRookie
+
+I did not start automation from architecture diagrams in slides.
+
+My path runs from control theory and system modeling at **TU Darmstadt**, to the German industrial R&D discipline at **Bosch Rexroth**, then to renewable energy testing and simulation validation at **Fraunhofer IWES**. After that, I worked across renewable-energy HIL, tobacco process automation, metallurgy and drive systems, plant-wide control systems, and industrial controller vendors.
+
+These experiences keep reminding me of one thing: real industrial problems are rarely solved by one elegant function, one library, or one AI prompt. The valuable work is connecting control logic, communication protocols, project structure, test validation, documentation standards, and team collaboration into one engineering system.
+
+---
+
+### What I Focus On
+
+<p align="center">
+  <img src="./assets/controlrookie-profile-focus-en.png" alt="ControlRookie focus: CODESYS, PLC, AI toolchain, engineering standards" width="100%">
+</p>
+
+**CODESYS / SmartControl**  
+Project structure, function blocks, state machines, communication wrappers, and maintainable source code.
+
+**PLC / Industrial Communication**  
+MQTT Client / Broker, field troubleshooting, protocol layering, and engineering delivery.
+
+**AI Toolchain**  
+Making LLMs work with real engineering context instead of staying as temporary Q&A tools.
+
+**Engineering Standards**  
+Naming, testing, delivery, documentation, and rules that teams can execute for the long run.
+
+---
+
+### Engineering Path
+
+<p align="center">
+  <img src="./assets/controlrookie-profile-timeline-en.png" alt="ControlRookie engineering path" width="100%">
+</p>
+
+I prefer to introduce myself as part of an engineering chain: control theory, industrial R&D, simulation validation, field projects, industry applications, and controller productization.  
+Every stage reminds me that automation engineering is not just writing a piece of ST code. It is connecting requirements, control, communication, troubleshooting, delivery, and long-term maintenance.
+
+---
+
+### What I Believe
+
+<p align="center">
+  <img src="./assets/controlrookie-profile-principles-en.png" alt="ControlRookie principles: runnable engineering, explainable logic, reusable workflow" width="100%">
+</p>
+
+**AI-generated output is not scarce. Engineering judgment is.**  
+Knowing what should be done, what should not be done, and where things will break still depends heavily on engineering experience.
+
+**Running is only the starting point. Maintainability is delivery.**  
+Control logic, protocol wrappers, state machines, exception handling, and documentation standards must be readable, transferable, and reusable.
+
+**Tools are not for showing off. They reduce repeated work.**  
+I care more about whether a tool can enter a real engineering workflow and reduce low-value workload for automation engineers.
+
+---
+
+### Find Me
+
+Main site · [ControlRookie](https://benpeng0205.github.io/) · [CSDN Blog](https://blog.csdn.net/weixin_44442562?type=blog)  
+Email · ben_peng0205@hotmail.com
+
+<p align="center">
+  <a href="#english"><strong>English</strong></a>
+  ·
+  <a href="#中文">中文</a>
+</p>
+
+<a id="中文"></a>
+
+<p align="center">
   <img src="./assets/controlrookie-profile-hero.png" alt="ControlRookie: 一名跟得上时代的 AI 自动化架构师" width="100%">
 </p>
 
