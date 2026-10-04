@@ -23,20 +23,20 @@ These experiences keep reminding me of one thing: real industrial problems are r
 ### What I Focus On
 
 <p align="center">
-  <img src="./assets/controlrookie-profile-focus-en.png" alt="ControlRookie focus: CODESYS, PLC, AI toolchain, engineering standards" width="100%">
+  <img src="./assets/controlrookie-profile-focus-en.png" alt="ControlRookie focus: thinking and experience, source code and libraries, AI toolchain, enterprise standardization" width="100%">
 </p>
 
-**CODESYS / SmartControl**  
-Project structure, function blocks, state machines, communication wrappers, and maintainable source code.
+**Thinking and Experience**
+Hard lessons, architecture tradeoffs, and debugging methods turned into reusable engineering judgment.
 
-**PLC / Industrial Communication**  
-MQTT Client / Broker, field troubleshooting, protocol layering, and engineering delivery.
+**Source Code and Libraries**<br>
+Runnable, verifiable, and portable CODESYS / industrial control source code, function blocks, and protocol libraries.
 
 **AI Toolchain**  
 Making LLMs work with real engineering context instead of staying as temporary Q&A tools.
 
-**Engineering Standards**  
-Naming, testing, delivery, documentation, and rules that teams can execute for the long run.
+**Enterprise Standardization**<br>
+Code rules, tests, documents, and delivery workflows shaped into standards teams can actually sustain.
 
 ---
 
@@ -98,20 +98,20 @@ Email · ben_peng0205@hotmail.com
 ### 我在做的事
 
 <p align="center">
-  <img src="./assets/controlrookie-profile-focus.png" alt="ControlRookie focus: CODESYS, PLC, AI 工具链, 工程标准化" width="100%">
+  <img src="./assets/controlrookie-profile-focus.png" alt="ControlRookie focus: 思想和经验、源码和库、AI 工具链、企业标准化" width="100%">
 </p>
 
-**CODESYS / SmartControl**  
-工程结构、功能块、状态机、通信封装和可维护源码。
+**思想和经验**
+把现场踩过的坑、架构取舍和调试方法，讲成工程师能直接复用的判断框架。
 
-**PLC / 工业通信**  
-MQTT Client / Broker、现场排障、协议分层和工程落地。
+**源码和库**<br>
+沉淀可运行、可验证、可迁移的 CODESYS / 工控源码、功能块和协议库。
 
 **AI 工具链**  
 让 LLM 接住真实工程上下文，而不是只停留在临时问答。
 
-**工程标准化**  
-命名、测试、交付、文档和团队长期可执行的规则。
+**企业标准化**<br>
+把代码规范、测试、文档和交付流程，整理成团队能长期执行的工程标准。
 
 ---
 
